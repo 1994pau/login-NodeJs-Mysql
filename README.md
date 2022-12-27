@@ -46,11 +46,9 @@ posibilidad de desconectarnos a traves de un logout.
 
 ## El código se está ejecutando✨ 
 http://localhost:3000/login 
-
-======================================
+#
 #English
-======================================
-
+#
 # Login with NodeJs 📝  
 This is a login project created in NodeJS using the following dependencies:
 
