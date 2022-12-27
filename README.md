@@ -1,5 +1,5 @@
 
-# login con NodeJs 📝  
+# Login con NodeJs 📝  
 Este un proyecto de login creado en NodeJS ulitizando las siguientes dependencias:
     
     - bcryptjs: Para encriptación de contraseñas.
@@ -47,10 +47,11 @@ posibilidad de desconectarnos a traves de un logout.
 ## El código se está ejecutando✨ 
 http://localhost:3000/login 
 
+======================================
+#English
+======================================
 
-English
-
-# login with NodeJs 📝  
+# Login with NodeJs 📝  
 This is a login project created in NodeJS using the following dependencies:
 
     
