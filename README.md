@@ -1,6 +1,7 @@
 
 # Login con NodeJs 📝  
 
+[![Registro-con-Node-Js.png](https://i.postimg.cc/PxNLgT2N/Registro-con-Node-Js.png)](https://postimg.cc/k63X83rd)
 [![Login-con-Node-Js.png](https://i.postimg.cc/c4QKFHLh/Login-con-Node-Js.png)](https://postimg.cc/8jzP5TWf)
 
 Este un proyecto de login creado en NodeJS ulitizando las siguientes dependencias:
@@ -53,6 +54,10 @@ http://localhost:3000/login
 # English
 #
 # Login with NodeJs 📝  
+
+[![Registro-con-Node-Js.png](https://i.postimg.cc/PxNLgT2N/Registro-con-Node-Js.png)](https://postimg.cc/k63X83rd)
+[![Login-con-Node-Js.png](https://i.postimg.cc/c4QKFHLh/Login-con-Node-Js.png)](https://postimg.cc/8jzP5TWf)
+
 This is a login project created in NodeJS using the following dependencies:
 
     
